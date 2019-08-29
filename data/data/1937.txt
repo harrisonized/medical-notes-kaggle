@@ -1,0 +1,44 @@
+
+
+
+
+
+<B>PROTOCOL:</B>  Bruce.
+
+<B>PERTINENT MEDICATION: </B> None.
+
+<B>REASON FOR TEST:</B>  Chest pain.
+
+<B>PROCEDURE AND INTERPRETATION: </B>
+1.  Baseline heart rate:  67.
+2.  Baseline blood pressure:  150/86.
+3.  Total time:  6 minute 51 seconds.
+4.  METs:  10.1.
+5.  Peak heart rate:  140.
+6.  Percent of maximum-predicted heart rate:  90.
+7.  Peak blood pressure:  200/92.
+8.  Reason test terminated:  Shortness of breath and fatigue.
+9.  Estimated aerobic capacity:  Average.
+10. Heart rate response:  Normal.
+11. Blood pressure response:  Hypertensive.
+12. ST segment response:  Normal.
+13. Chest pain:  None.
+14. Symptoms:  None.
+15. Arrhythmia:  None.
+
+<B>CONCLUSION:</B>
+1.  Average aerobic capacity.
+2.  Normal heart rate and blood pressure response to exercise.
+3.  No symptomatic electrocardiographic evidence of ischemia.
+
+<B>CONDITION: </B> Stable with normal vital signs.
+
+<B>DISPOSITION:  </B>The patient was discharged home and was asymptomatic.
+
+
+
+
+
+
+
+
