@@ -1,0 +1,1 @@
+mongoimport --db medical_notes_kaggle --collection text --file '/home/harrisonized/github/medical-notes-kaggle/data/medical-text-data.json'
