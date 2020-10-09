@@ -1,0 +1,2 @@
+mongoimport --db medical_notes_kaggle --collection train --type json --file '/home/harrisonized/github/projects/medical-notes-kaggle/data/train.json' --jsonArray
+mongoimport --db medical_notes_kaggle --collection test --type json --file '/home/harrisonized/github/projects/medical-notes-kaggle/data/test.json' --jsonArray
